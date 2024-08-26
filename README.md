@@ -1,11 +1,10 @@
-## Hi there 👋
+## Glad you stopped by! 👋
 <div>
-My name is Ignacio. <br>
-Since you’re here, I’m sure you’re looking for EXTRAORDINARY results. And that’s exactly what I can do for you. <br>
-If you're looking for a developer who can deliver top-notch work while also keeping things light and fun, then look no further. I'm ready to dive into your project, write some amazing code, and maybe even tell a joke or two along the way.
+Hello, I’m Ignacio.<br>
+If you’re here, it’s probably because you’re looking for top-notch results—and that’s exactly what I’m here to deliver.<br> Need a developer who not only excels at writing great code but also makes the process enjoyable? You’ve come to the right place. I’m eager to dive into your project, craft some awesome solutions, and maybe even have a few laughs along the way.
 </div>
 
-## Languages and Tools
+## Skills
 <div align="center">
 	<table>
 		<tr>
