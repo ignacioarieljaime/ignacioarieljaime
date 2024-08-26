@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e8f574f5-43dc-4483-9686-0e6694b327f5)
+
 ## Glad you stopped by! 👋
 <div>
 Hello, I’m Ignacio.<br>
